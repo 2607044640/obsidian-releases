@@ -40234,5 +40234,12 @@
     "author": "Aoba Suzuki",
     "description": "Highlights files with unfinished tasks and provides a synchronized vault-wide task summary. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "7jo-yamato/unfinished-todo-highlighter"
+  },
+  {
+        "id": "fluent-tasks",
+        "name": "Fluent Tasks",
+        "author": "Jeff1024",
+        "description": "A beautiful, drag-and-drop task manager inspired by Fluent Design.",
+        "repo": "2607044640/fluent-tasks"
   }
 ]
